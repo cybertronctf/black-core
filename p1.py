@@ -1,1 +1,1 @@
-print("black-core INSERT")
+print("black-core UPDATE")
